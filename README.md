@@ -1,3 +1,3 @@
-# sdk-github-project-zrbdbq
+# sdk-github-project-sandro
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/sdk-github-project-zrbdbq)
+[Правка на StackBlitz ⚡️](https://stackblitz.com/edit/sdk-github-project-sandro)
