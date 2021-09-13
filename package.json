@@ -3,6 +3,6 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "@stackblitz/sdk": "^1.4.0"
+    "@stackblitz/sdk": "^1.5.2"
   }
 }
