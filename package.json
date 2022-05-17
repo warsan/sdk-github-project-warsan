@@ -1,7 +1,7 @@
 {
   "name": "sdk-github-project",
   "version": "0.0.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@stackblitz/sdk": "^1.5.2"
   }
